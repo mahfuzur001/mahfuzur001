@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahfuzur Rahman
 
-<!--
-**mahfuzur001/mahfuzur001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer (Backend Focused)**
+💻 Django REST Framework | FastAPI | React.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate developer who loves building real-world applications.
+Currently focused on developing **scalable backend systems** and **full-stack e-commerce applications** using modern technologies.
+
+* 🔭 Working on: E-commerce Backend (Django DRF + React)
+* 🌱 Learning: Advanced API Architecture & FastAPI
+* 🎯 Goal: Become an industry-level Backend Engineer
+* ⚡ Fun fact: I love building complete systems from scratch
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* Django
+* Django REST Framework (DRF)
+* FastAPI
+* JWT Authentication
+
+### Frontend
+
+* React.js
+* Next.js (Learning)
+
+### Database
+
+* PostgreSQL
+* SQLite
+
+### Tools
+
+* Git & GitHub
+* Postman
+* Docker (Learning)
+
+---
+
+## 🚀 Projects
+
+### 🛒 E-commerce API (Django DRF)
+
+* JWT Authentication (Admin, Seller, Customer)
+* Product Management (CRUD)
+* Cart & Order System
+* Payment Integration (Stripe/PayPal - optional)
+
+### 🔐 Authentication System
+
+* Login / Registration / Logout
+* JWT Token System
+* Secure API with Permissions
+
+### ⚡ FastAPI Project
+
+* High-performance API
+* Clean architecture
+* Async support
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzur001\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: (Add your link)
+
+---
+
+## 💡 Motto
+
+> "Build real projects, not just tutorials."
