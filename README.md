@@ -76,7 +76,7 @@ Currently focused on developing **scalable backend systems** and **full-stack e-
 ## 📫 Connect With Me
 
 * 📧 Email: [bdmahfuz147@gmail.com.com](mailto:your-email@example.com)
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: (https://www.linkedin.com/in/md-mahfuzur-rahman-56072b388/)
 
 ---
 
