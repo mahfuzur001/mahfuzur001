@@ -1,85 +1,120 @@
-# 👋 Hi, I'm Mahfuzur Rahman
+🚀 Mahfuzur Rahman
 
-🚀 **Full Stack Developer (Backend Focused)**
-💻 Django REST Framework | FastAPI | React.js
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress;Django+%7C+FastAPI+%7C+React;Building+Scalable+Systems;From+Idea+→+Production" />
+</p>---
 
----
+🧠 Who Am I?
 
-## 👨‍💻 About Me
-
-I am a passionate developer who loves building real-world applications.
-Currently focused on developing **scalable backend systems** and **full-stack e-commerce applications** using modern technologies.
-
-* 🔭 Working on: E-commerce Backend (Django DRF + React)
-* 🌱 Learning: Advanced API Architecture & FastAPI
-* 🎯 Goal: Become an industry-level Backend Engineer
-* ⚡ Fun fact: I love building complete systems from scratch
+name: Mahfuzur Rahman
+role: Backend Focused Full Stack Developer
+focus: Scalable API & System Design
+current_work: E-commerce System (Django DRF + React)
+learning: FastAPI & Advanced Backend Architecture
+goal: Industry-level Backend Engineer
 
 ---
 
-## 🛠️ Tech Stack
+⚡ Tech Stack
 
-### Backend
+🧩 Backend
 
-* Django
-* Django REST Framework (DRF)
-* FastAPI
-* JWT Authentication
+<p>
+  <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/DRF-ff4b5c?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi" />
+</p>🎨 Frontend
 
-### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js" />
+</p>🗄️ Database
 
-* React.js
-* Next.js (Learning)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-2D3748?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/SQLite-1C3C3C?style=for-the-badge&logo=sqlite" />
+</p>🛠 Tools
 
-### Database
+<p>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git" />
+</p>---
 
-* PostgreSQL
-* SQLite
+🚀 Featured Projects
 
-### Tools
+🛒 E-commerce System
 
-* Git & GitHub
-* Postman
-* Docker (Learning)
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png" width="60"/>
+</p>«Full-featured scalable backend system»
 
----
+✨ Features:
 
-## 🚀 Projects
-
-### 🛒 E-commerce API (Django DRF)
-
-* JWT Authentication (Admin, Seller, Customer)
-* Product Management (CRUD)
-* Cart & Order System
-* Payment Integration (Stripe/PayPal - optional)
-
-### 🔐 Authentication System
-
-* Login / Registration / Logout
-* JWT Token System
-* Secure API with Permissions
-
-### ⚡ FastAPI Project
-
-* High-performance API
-* Clean architecture
-* Async support
+- 🔐 Multi-role JWT Authentication
+- 📦 Product & Order Management
+- 🛒 Cart System
+- 💳 Payment Integration Ready
 
 ---
 
-## 📊 GitHub Stats
+⚡ FastAPI High Performance API
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfuzur001\&show_icons=true)
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="60"/>
+</p>«Clean architecture + async powered»
+
+- ⚡ Async API
+- 🧱 Modular Structure
+- 📈 Scalable Design
 
 ---
 
-## 📫 Connect With Me
+🔐 Authentication System
 
-* 📧 Email: [bdmahfuz147@gmail.com.com](mailto:your-email@example.com)
-* 💼 LinkedIn: (https://www.linkedin.com/in/md-mahfuzur-rahman-56072b388/)
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="60"/>
+</p>«Secure & reusable auth module»
+
+- 🔑 JWT Authentication
+- 🛡 Permission System
+- 🔄 Login / Register Flow
 
 ---
 
-## 💡 Motto
+📊 GitHub Stats
 
-> "Build real projects, not just tutorials."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuzur001&show_icons=true&theme=tokyonight&border_radius=10" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=mahfuzur001&theme=tokyonight&border_radius=10" />
+</p>---
+
+🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:bdmahfuz147@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-mahfuzur-rahman-56072b388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>---
+
+🧠 Developer Philosophy
+
+<p align="center">«💡 "I don't just write code, I build systems."
+🚀 "From idea → API → production."»
+
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>---
+
+🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahfuzur001&color=00F7FF&style=flat-square" />
+</p>---
